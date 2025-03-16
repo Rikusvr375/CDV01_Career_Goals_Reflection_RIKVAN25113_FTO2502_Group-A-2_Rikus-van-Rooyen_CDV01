@@ -16,65 +16,65 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Rikus van Rooyen**
+- **Date:16 March 2025**
+- **Current Role/Position:Student at Codespace Academy**
+- **Field of Interest:Software Development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Currently, I am still learning how to use HTML and CSS to build a typical website structure. I understand the basic and advanced terms and tags in HTML and CSS and I can build the basic layout of a website.
+    - I need to work on the fluency in these languages, as it is a language I will use for every project I will be working on.
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - I really am invested in the build of something like a landing page from scratch, and acheiving something from nothing with only using code.
+    - Consistency stays at the top of my value list, as it is the thing that drives every athlete, developer or any person that wants to be one of the great's in their profession.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - I have looked into E-commerce, technology and finance. Mainly frontend development in these sections.
+    - E-commerce really peaked my interest as it is somethin I truely enjoy.
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - I can see myself working in these industries because it aligns with the course I am working on at codespace.
+    - An area I need to work on is my Javascript and react skills.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - I plan on finishing the course I am busy with at codespace and then doing additional studys before I land my first job at a desired company as a software developer.
+    - I want to work on my skills in software development to be able to work at a company that knows what they are doing.
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - My long-term goal is to move to Cape-town or even to a state that is better off in the tech development section, where I can fulfill my dream in software development.
+    - It aligns perfectly with my course as I will be able to study all the languages I need to persue my dreams.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Firstly I need to finish my 6-month goal in completing my course at codespace.
+    - Only discipline and hard work.
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Studying hard and making sure to understand all concepts fluently by participating and being a part of the software community.
+    - An alternative would be to find a short-term job, to be able to build real-life experience that I can add to my resume.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Not finding the courage or strength to carry on in making my dreams come true.
+    - To constantly try new things and make the profession exciting.
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Finding a suitable job to work on real-life projects and developing my skills.
+    - Codespace is the educational bridge that fills the gap.
 
 ### Submission
 
